@@ -1,1 +1,0 @@
-Pasta para salvar os arquivos do gerenciamento do projeto
