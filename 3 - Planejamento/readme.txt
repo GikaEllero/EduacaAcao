@@ -1,0 +1,1 @@
+Pasta para salvar os arquivos do planejamento do projeto
